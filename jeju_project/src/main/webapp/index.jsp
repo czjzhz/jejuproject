@@ -11,7 +11,11 @@
 프로젝트 시작 페이지!!<br>
 
 	<a href="home.do">홈화면 이동</a>
+<<<<<<< HEAD
 	박동인 sdfsdf
+=======
+	
+>>>>>>> parent of 498aec5 (박동인 브랜치 테스트)
 <script>
 //	location.href="./home.do";
 </script>	
