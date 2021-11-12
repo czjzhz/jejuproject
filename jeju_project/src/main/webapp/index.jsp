@@ -11,7 +11,7 @@
 프로젝트 시작 페이지!!<br>
 
 	<a href="home.do">홈화면 이동</a>
-	박동인 
+	박동인 sdfsdf
 <script>
 //	location.href="./home.do";
 </script>	
